@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maple-html
 
-- im an electrical engineering student with experience in c, python, vhdl, html, css and javascript.
+- im an electrical engineering student with experience in c, python, vhdl, html, css, javascript and MatLab.
 
   # projects
 
